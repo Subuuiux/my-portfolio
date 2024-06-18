@@ -19,7 +19,7 @@ const Intro = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>I have 6 years of extensive industry experience in designing and developing dynamic web pages.</h5>
+              <h5>I have 8 years of extensive industry experience in designing and developing dynamic web pages.</h5>
               {/* <small>1.5 year</small> */}
             </article>
             <article className="about__card">
